@@ -113,9 +113,26 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## 🧑‍💻 Forensics Tools
 
-- 🧑‍💻 **Autopsy** – Digital forensics platform
-- 🧠 **Volatility** – Memory forensics
-- 🗂️ **Binwalk** – Firmware analysis
+- 🧑‍💻 [**Autopsy**](https://www.autopsy.com/) – Digital forensics platform for analyzing hard drives and smartphones.
+- 🧠 [**Volatility**](https://www.volatilityfoundation.org/) – Memory forensics framework for analyzing RAM dumps.
+- 🗂️ [**Binwalk**](https://github.com/ReFirmLabs/binwalk) – Firmware analysis tool for extracting embedded files.
+- 🔍 [**Sleuth Kit (TSK)**](https://www.sleuthkit.org/sleuthkit/) – Command-line tools for disk image investigation.
+- 🧑‍💻 [**ExifTool**](https://exiftool.org/) – Metadata extractor for images, videos, and documents.
+- 🗃️ [**TestDisk**](https://www.cgsecurity.org/wiki/TestDisk) – Disk recovery tool to restore lost partitions.
+- 🔄 [**PhotoRec**](https://www.cgsecurity.org/wiki/PhotoRec) – File recovery software for deleted files from disks.
+- 🧑‍💻 [**Foremost**](https://foremost.sourceforge.net/) – File carving tool for data recovery based on headers.
+- 🔑 [**Hashdeep**](https://github.com/jessek/hashdeep) – File hashing tool with recursive hashing & audit mode.
+- 🧑‍💻 [**Bulk Extractor**](https://github.com/simsong/bulk_extractor) – Extracts email, URLs, and other artifacts from raw data.
+- 🗄️ [**Digital Forensics Framework (DFF)**](https://github.com/arxsys/dff) – Open-source platform for digital forensics.
+- 🧑‍💻 [**Xplico**](https://www.xplico.org/) – Network forensics tool to reconstruct network sessions.
+- 🧑‍💻 [**NetworkMiner**](https://www.netresec.com/?page=NetworkMiner) – Passive network packet analyzer for network forensics.
+- 🧑‍💻 [**Pdf-parser**](https://blog.didierstevens.com/programs/pdf-tools/) – Analyze and extract content from PDF files.
+- 🧑‍💻 [**RegRipper**](https://github.com/keydet89/RegRipper3.0) – Windows registry analysis tool.
+- 🧑‍💻 [**PEView**](https://www.aldeid.com/wiki/PEview) – Portable executable (PE) file viewer for malware analysis.
+- 🧑‍💻 [**YARA**](https://github.com/VirusTotal/yara) – Malware pattern-matching tool used by researchers.
+- 🧑‍💻 [**HxD**](https://mh-nexus.de/en/hxd/) – Hex editor for raw disk editing and analysis.
+- 🧑‍💻 [**FTK Imager**](https://accessdata.com/products-services/ftk-imager) – Disk imaging and evidence preview tool.
+- 🧑‍💻 [**Capstone**](https://www.capstone-engine.org/) – Disassembly framework for binary analysis.
 
 ## ⏳ Stress Testing
 
