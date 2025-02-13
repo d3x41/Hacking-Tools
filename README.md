@@ -24,12 +24,46 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 📶 **Kismet** – Wireless network detector & sniffer
 - 🕵️ **Maltego** – Data mining & link analysis
 - 📨 **theHarvester** – OSINT for emails, subdomains, etc.
+- 🧑‍💻 **Recon-ng** – Web reconnaissance framework
+- 🌐 **Sublist3r** – Subdomain enumeration
+- 🕸️ **Amass** – Network mapping and external asset discovery
+- 🔍 **Shodan** – Search engine for internet-connected devices
+- 🔎 **Netcraft** – Site analysis and OSINT platform
+- 🧑‍💻 **SpiderFoot** – Automated reconnaissance tool
+- 📡 **Dnsenum** – DNS enumeration tool
+- 🏷️ **Whois** – Domain information lookup
+- 🌍 **Dnsrecon** – DNS record scanner
+- 🌐 **Fierce** – DNS and network mapping
+- 🧑‍💻 **Censys** – Search engine for devices and networks
+- 🧑‍💻 **Assetfinder** – Subdomain discovery tool
+- 🔍 **WhatWeb** – Website information scanner
+- 🧑‍💻 **Dig** – DNS lookup utility
+- 🧑‍💻 **Curl** – HTTP requests and responses tool
+- 📄 **Wafw00f** – Web application firewall detection
+
 
 ## 🔎 Vulnerability Analysis
 
-- 🧪 **OpenVAS** – Vulnerability scanner
-- 🛡️ **Nessus** – Commercial vulnerability scanner
-- 🕵️‍♂️ **Nikto** – Web server vulnerability scanner
+- 🧪 **OpenVAS** – Full-featured vulnerability scanner.
+- 🛡️ **Nessus** – Commercial vulnerability assessment tool.
+- 🕵️‍♂️ **Nikto** – Web server vulnerability scanner.
+- 🧑‍💻 **Vulmap** – Local & remote vulnerability scanner.
+- 🧑‍💻 **Lynis** – Security auditing tool for Linux.
+- 🔍 **Qualys** – Cloud vulnerability scanner.
+- 🧑‍💻 **Rapid7 InsightVM** – Risk-based vulnerability management.
+- 🛠️ **OpenSCAP** – Security Content Automation Protocol (SCAP) scanner.
+- 🧑‍💻 **Retina Network Scanner** – Vulnerability scanner by BeyondTrust.
+- 🌐 **Burp Suite Scanner** – Web application vulnerability scanner.
+- 🧑‍💻 **ZAP (OWASP)** – Automated web application vulnerability detection.
+- 🧑‍💻 **Nexpose** – Enterprise vulnerability management by Rapid7.
+- 📦 **Vuls** – Agentless vulnerability scanner for Linux & FreeBSD.
+- 🧑‍💻 **ArcherySec** – Vulnerability assessment & management tool.
+- 🧑‍💻 **Exploit-DB Search** – Search vulnerabilities & exploits database.
+- 🧑‍💻 **Wapiti** – Web application vulnerability scanner.
+- 🧑‍💻 **Vega** – GUI-based web vulnerability scanner.
+- 🧑‍💻 **Arachni** – Advanced web application security scanner.
+- 🧑‍💻 **Nikto2** – Enhanced version of Nikto scanner.
+- 🧑‍💻 **WhatWeb** – Website fingerprinting & vulnerability detection.
 
 ## 💥 Exploitation Tools
 
