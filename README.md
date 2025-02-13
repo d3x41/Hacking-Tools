@@ -138,21 +138,73 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## ⏳ Stress Testing
 
-- 🐌 **Slowloris** – HTTP DoS tool
-- 🛰️ **LOIC** – Network stress testing
-- 🐻 **HULK** – HTTP flood tool
+- 🐌 **[Slowloris](https://github.com/gkbrk/slowloris)** – HTTP DoS tool for keeping many connections open
+- 🛰️ **[LOIC](https://github.com/NewEraCracker/LOIC)** – Low Orbit Ion Cannon for stress testing
+- 🐻 **[HULK](https://github.com/evilarc/HULK)** – HTTP flood tool that makes use of varied requests
+- 🦸 **[GoldenEye](https://github.com/jseidl/GoldenEye)** – Python-based HTTP denial-of-service tool
+- 💨 **[Tsunami](https://github.com/tsunami-pft/tsunami)** – Network stress testing and security evaluation
+- 🛑 **[R-U-Dead-Yet](https://github.com/m0nad/DDoS)** – Simple DoS testing tool
+- 🧯 **[DDoS-Sim](https://github.com/DDoS-Sim/DDoS-Sim)** – DDoS simulation tool
+- 💥 **[Xerxes](https://github.com/BigMondo/Xerxes)** – Powerful DDoS attack tool for testing purposes
+- 🎯 **[Web-Hulk](https://github.com/wwkman/Web-Hulk)** – Web server stress testing tool
+- 🚀 **[Synful](https://github.com/SynfulTeam/synful)** – SYN flood tool for stress testing
+- 💣 **[LOIC-PowerShell](https://github.com/LOIC-PowerShell/LOIC-PowerShell)** – PowerShell-based LOIC for DDoS testing
+- 🌐 **[T50](https://github.com/technitium/T50)** – A powerful stress testing tool that simulates multiple attack vectors
+- 🌪️ **[RIP-Lite](https://github.com/Sp0oF/RIP-Lite)** – Lightweight stress testing tool for HTTP and SOCKS
+- 🐉 **[Stress-ng](https://github.com/ColinIanKing/stress-ng)** – A tool that can stress test the CPU, RAM, I/O, and more
+- 🛠️ **[XDT](https://github.com/xwdn/xdt)** – DDoS testing tool with multi-protocol support
+- 🥂 **[Botnet](https://github.com/yeswepwn/Botnet)** – DDoS botnet attack simulation tool
+- 🔨 **[DDOS-Exploit](https://github.com/nemesis2020/DDOS-Exploit)** – Exploit kit for DDoS stress testing
+- 🛡️ **[Fudp](https://github.com/Toph-3r/fudp)** – A multi-threaded UDP flooder for stress testing
+- ⚡ **[BlackHAT](https://github.com/j3ssie/BlackHAT)** – A stress testing framework for web applications
+
 
 ## 🕵️‍♀️ Sniffing & Spoofing
 
-- 🧑‍💻 **Wireshark** – Network analyzer
-- 🎭 **Ettercap** – MITM attack tool
-- 🦸 **BetterCAP** – Network attacks & monitoring
+
+- 🌐 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer
+- 🕵️‍♂️ **[Ettercap](https://www.ettercap-project.org/)** – Man-in-the-middle attack tool
+- ⚡ **[BetterCAP](https://www.bettercap.org/)** – Flexible network attack & monitoring tool
+- 📡 **[Tcpdump](https://www.tcpdump.org/)** – Command-line packet analyzer
+- 🌍 **[Nessus](https://www.tenable.com/products/nessus)** – Vulnerability scanner with sniffing capabilities
+- 🐍 **[Scapy](https://scapy.net/)** – Python-based interactive packet manipulation program
+- 🌐 **[MITMf](https://github.com/byt3bl33d3r/MITMf)** – Man-in-the-middle framework for network attacks
+- 🦊 **[Fakenet-NG](https://github.com/axil/fakenet-ng)** – Fake network traffic generation tool
+- 🐾 **[Dsniff](https://github.com/joschi/dsniff)** – Collection of network monitoring tools for penetration testers
+- 🎯 **[Responder](https://github.com/SpiderLabs/Responder)** – LLMNR, NBT-NS, and MDNS poisoner for internal network attacks
+- 💻 **[Ettercap-NG](https://github.com/Ettercap/ettercap)** – Enhanced version of Ettercap with additional features
+- 🧑‍💻 **[Arp-Spoof](https://github.com/vanhauser-thc/thc-hydra)** – Tool to intercept network traffic by sending ARP packets
+- 🌐 **[WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)** – WiFi spoofing tool
+- 🎣 **[Aircrack-ng](https://www.aircrack-ng.org/)** – Suite for wireless network auditing and cracking WEP/WPA keys
+- 🧩 **[Xplico](https://www.xplico.org/)** – Network forensics tool that extracts applications' data from pcap files
+- 📊 **[Pry-Fi](https://github.com/Kevin-Robert/Pry-Fi)** – A tool to find and exploit vulnerabilities in wireless networks
+- 🕵️‍♀️ **[Kismet](https://kismetwireless.net/)** – Wireless network detector, sniffer, and intrusion detection system
+- 🐍 **[Burp Suite](https://portswigger.net/burp)** – Web vulnerability scanner and network attack tool with advanced interception features
+- 💻 **[Snoopy](https://github.com/marooned/snoopy)** – Sniffing & spoofing tool focused on DNS & HTTP traffic
+- 📡 **[Snort](https://www.snort.org/)** – Open-source network intrusion detection & prevention system
 
 ## 🔐 Password Attacks
 
-- 🔥 **John the Ripper** – Password cracker
-- 🧑‍💻 **Hydra** – Brute-force tool
-- ⚡ **Hashcat** – Advanced password recovery
+- 🔥 **[John the Ripper](https://www.openwall.com/john/)** – Password cracking tool for various password hashes.
+- 🧑‍💻 **[Hydra](https://github.com/vanhauser-thc/thc-hydra)** – Brute-force tool that supports a wide range of protocols.
+- ⚡ **[Hashcat](https://github.com/hashcat/hashcat)** – Advanced password recovery using GPUs.
+- 🐍 **[Medusa](https://github.com/jmk-foofus/medusa)** – A speedy, parallelized login brute-forcer.
+- 🌐 **[Aircrack-ng](https://www.aircrack-ng.org/)** – WiFi password cracking suite.
+- 🔐 **[Wifite](https://github.com/derv82/wifite2)** – Wireless network attack tool focused on WPA/WPA2.
+- 🧠 **[THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)** – A very fast network login cracker.
+- 🎯 **[Hash-Toolkit](https://github.com/rapid7/hash_toolkit)** – A tool for password hash cracking.
+- 🛠️ **[Brutus](https://www.hoobie.net/brutus/)** – An old but reliable password cracker for HTTP, FTP, and more.
+- 🔑 **[Burp Suite](https://portswigger.net/burp)** – A popular web vulnerability scanner with password attack features.
+- 🧑‍💻 **[Ophcrack](http://ophcrack.sourceforge.net/)** – A Windows password cracker using rainbow tables.
+- 💻 **[Cain & Abel](https://www.oxid.it/cain.html)** – A versatile tool for cracking various password hashes, sniffing networks, and decoding passwords.
+- 🔐 **[L0phtCrack](https://www.l0phtcrack.com/)** – Windows password auditing and recovery tool.
+- 🧩 **[CrackStation](https://crackstation.net/)** – A free online service for cracking password hashes using dictionary attacks.
+- 🔓 **[RainbowCrack](https://project-rainbowcrack.com/)** – A tool that utilizes rainbow tables to crack passwords.
+- 🧑‍💻 **[Medusa](https://github.com/jmk-foofus/medusa)** – Parallelized login brute-forcer for multiple protocols.
+- 🔥 **[Patator](https://github.com/lanjelot/patator)** – A multi-purpose brute-forcing tool that supports numerous protocols.
+- 🛡️ **[RSMangler](https://github.com/s0md3v/Hash-Buster)** – A hash bruteforce tool for creating password dictionaries.
+- 🧑‍💻 **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)** – A post-exploitation tool for automating credential validation.
+- 🕵️‍♀️ **[SudoKiller](https://github.com/TH3xACE/SudoKiller)** – A tool for privilege escalation that can be used for password cracking in Unix-based systems.
 
 ## 🌐 Web Application Analysis
 
