@@ -67,15 +67,49 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## 💥 Exploitation Tools
 
-- 🎯 **Metasploit** – Exploit development framework
-- 🚀 **Armitage** – GUI for Metasploit
-- 🌐 **BeEF** – Browser exploitation tool
+- 🎯 **Metasploit Framework** – Powerful framework for developing and executing exploits.
+- 🚀 **Armitage** – GUI for Metasploit, visualizing targets and launching exploits.
+- 🌐 **BeEF (Browser Exploitation Framework)** – Exploits browser vulnerabilities to gain control over clients.
+- 🧑‍💻 **ExploitDB** – Searchable exploit database for known vulnerabilities.
+- 🔍 **SearchSploit** – CLI interface for ExploitDB to quickly search local exploit copies.
+- 🦠 **SET (Social Engineering Toolkit)** – Human-focused attack vectors like phishing and credential harvesting.
+- 📡 **RouterSploit** – Framework focused on exploiting routers and embedded devices.
+- 🐍 **SQLmap** – Automated tool for detecting and exploiting SQL injection vulnerabilities.
+- 🕷️ **XSStrike** – Advanced XSS scanner with payload fuzzing and WAF bypass.
+- 🔓 **Commix** – Automated exploitation tool for Command Injection vulnerabilities.
+- 🧨 **PayloadsAllTheThings** – Repository with various attack payloads for exploitation and testing.
+- 🗡️ **Empire** – Post-exploitation framework focused on PowerShell agents.
+- 🧑‍💻 **PowerSploit** – PowerShell-based post-exploitation modules for Windows.
+- 🐾 **CrackMapExec** – Post-exploitation tool for network enumeration and lateral movement.
+- 🎭 **Veil Framework** – Bypasses antivirus detection with custom payload generation.
+- 🧬 **Shellter** – Dynamic shellcode injection into Windows executables.
+- 🐙 **Cobalt Strike** – Advanced threat emulation platform for post-exploitation and red teaming.
+- 📦 **Mimikatz** – Extracts plaintext passwords, hashes, and Kerberos tickets from memory.
+- 🏹 **Responder** – LLMNR, NBT-NS, and MDNS poisoning tool for credential theft.
+- 💣 **Evil-WinRM** – Exploitation and post-exploitation tool for Windows Remote Management (WinRM) services.
 
 ## 📡 Wireless Attacks
 
-- 📡 **Aircrack-ng** – WiFi cracking suite
-- 🔓 **Reaver** – WPS attack tool
-- 🛜 **Fern WiFi Cracker** – Wireless auditing
+- 📡 **Aircrack-ng** – Comprehensive suite for WiFi network security testing and cracking.
+- 🔓 **Reaver** – WPS attack tool to recover WPA/WPA2 passphrases.
+- 🛜 **Fern WiFi Cracker** – Wireless auditing and attack tool with GUI.
+- 🧑‍💻 **Wifite** – Automated wireless auditing tool.
+- 🧪 **Cowpatty** – WPA-PSK password attack tool.
+- 📶 **Fluxion** – Evil twin attack tool for obtaining WiFi credentials.
+- 🔥 **Linset** – Automated evil twin attack with WPA phishing.
+- 🕵️ **Airgeddon** – Wireless security auditing script with various attack modes.
+- 🧑‍💻 **MDK3** – WiFi DoS and testing tool.
+- 🛰️ **BetterCAP** – Wireless network attacks and packet manipulation.
+- 🧑‍💻 **EvilTwin** – Fake AP tool for intercepting WiFi credentials.
+- 🌐 **WPA_Supplicant** – Wireless client authentication and connection tool.
+- 🛠️ **WiFi-Pumpkin** – Rogue AP framework for phishing and MITM attacks.
+- 🕵️‍♀️ **ProbeSniffer** – Detects probe requests from wireless devices.
+- 🎭 **AirSnarf** – Rogue AP tool targeting captive portal phishing.
+- 🧑‍💻 **Hostapd-WPE** – Rogue enterprise AP for credential harvesting.
+- 📶 **VMP Evil AP** – Fake access point for phishing attacks.
+- 🧑‍💻 **Eaphammer** – Automated evil twin attack toolkit.
+- 🕵️ **Packet Injection Tools** – Tools for packet injection and monitoring.
+- 📡 **Airplay-ng** – Deauthentication attack tool for disconnecting clients.
 
 ## 🧑‍💻 Forensics Tools
 
