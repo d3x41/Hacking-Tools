@@ -20,50 +20,51 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## 🔍 Information Gathering
 
-- 🛜 **Nmap** – Network scanner & mapper
-- 📶 **Kismet** – Wireless network detector & sniffer
-- 🕵️ **Maltego** – Data mining & link analysis
-- 📨 **theHarvester** – OSINT for emails, subdomains, etc.
-- 🧑‍💻 **Recon-ng** – Web reconnaissance framework
-- 🌐 **Sublist3r** – Subdomain enumeration
-- 🕸️ **Amass** – Network mapping and external asset discovery
-- 🔍 **Shodan** – Search engine for internet-connected devices
-- 🔎 **Netcraft** – Site analysis and OSINT platform
-- 🧑‍💻 **SpiderFoot** – Automated reconnaissance tool
-- 📡 **Dnsenum** – DNS enumeration tool
-- 🏷️ **Whois** – Domain information lookup
-- 🌍 **Dnsrecon** – DNS record scanner
-- 🌐 **Fierce** – DNS and network mapping
-- 🧑‍💻 **Censys** – Search engine for devices and networks
-- 🧑‍💻 **Assetfinder** – Subdomain discovery tool
-- 🔍 **WhatWeb** – Website information scanner
-- 🧑‍💻 **Dig** – DNS lookup utility
-- 🧑‍💻 **Curl** – HTTP requests and responses tool
-- 📄 **Wafw00f** – Web application firewall detection
+- 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
+- 📶 **[Kismet](https://www.kismetwireless.net/)** – Wireless network detector, sniffer, and intrusion detection.
+- 🕵️ **[Maltego](https://www.maltego.com/)** – OSINT and data mining tool for information analysis.
+- 📨 **[theHarvester](https://github.com/laramies/theHarvester)** – Tool to gather emails, subdomains, hosts, and more.
+- 🔗 **[Recon-ng](https://github.com/lanmaster53/recon-ng)** – Full-featured web reconnaissance framework.
+- 🕵️‍♂️ **[SpiderFoot](https://github.com/smicallef/spiderfoot)** – Automate OSINT collection from multiple sources.
+- 🔍 **[Amass](https://github.com/OWASP/Amass)** – Network mapping and external asset discovery tool.
+- 🗂️ **[Sublist3r](https://github.com/aboul3la/Sublist3r)** – Subdomain enumeration using search engines.
+- 🧑‍💻 **[Assetfinder](https://github.com/tomnomnom/assetfinder)** – Subdomain discovery using various sources.
+- 🌍 **[crt.sh](https://crt.sh/)** – SSL certificate transparency log search engine.
+- 🧪 **[Dnsrecon](https://github.com/darkoperator/dnsrecon)** – Perform DNS enumeration and zone transfers.
+- 📜 **[Fierce](https://github.com/mschwager/fierce)** – DNS reconnaissance and attack tool.
+- 📄 **[WHOIS](https://www.whois.com/)** – Domain registration and ownership lookup.
+- 📬 **[EmailHarvester](https://github.com/maldevel/EmailHarvester)** – Email enumeration and gathering.
+- 🕸️ **[Shodan](https://www.shodan.io/)** – Search engine for internet-connected devices.
+- 🔥 **[Censys](https://censys.io/)** – Search engine for hosts and networks on the internet.
+- 🌐 **[OSINT Framework](https://osintframework.com/)** – Collection of OSINT tools and resources.
+- 🧑‍💻 **[FOCA](https://github.com/ElevenPaths/FOCA)** – Metadata extraction and document analysis.
+- 🛡️ **[Netcraft](https://www.netcraft.com/)** – Website profiling and phishing detection.
+- 🏛️ **[BuiltWith](https://builtwith.com/)** – Website technology lookup and analysis.
 
 
 ## 🔎 Vulnerability Analysis
 
-- 🧪 **OpenVAS** – Full-featured vulnerability scanner.
-- 🛡️ **Nessus** – Commercial vulnerability assessment tool.
-- 🕵️‍♂️ **Nikto** – Web server vulnerability scanner.
-- 🧑‍💻 **Vulmap** – Local & remote vulnerability scanner.
-- 🧑‍💻 **Lynis** – Security auditing tool for Linux.
-- 🔍 **Qualys** – Cloud vulnerability scanner.
-- 🧑‍💻 **Rapid7 InsightVM** – Risk-based vulnerability management.
-- 🛠️ **OpenSCAP** – Security Content Automation Protocol (SCAP) scanner.
-- 🧑‍💻 **Retina Network Scanner** – Vulnerability scanner by BeyondTrust.
-- 🌐 **Burp Suite Scanner** – Web application vulnerability scanner.
-- 🧑‍💻 **ZAP (OWASP)** – Automated web application vulnerability detection.
-- 🧑‍💻 **Nexpose** – Enterprise vulnerability management by Rapid7.
-- 📦 **Vuls** – Agentless vulnerability scanner for Linux & FreeBSD.
-- 🧑‍💻 **ArcherySec** – Vulnerability assessment & management tool.
-- 🧑‍💻 **Exploit-DB Search** – Search vulnerabilities & exploits database.
-- 🧑‍💻 **Wapiti** – Web application vulnerability scanner.
-- 🧑‍💻 **Vega** – GUI-based web vulnerability scanner.
-- 🧑‍💻 **Arachni** – Advanced web application security scanner.
-- 🧑‍💻 **Nikto2** – Enhanced version of Nikto scanner.
-- 🧑‍💻 **WhatWeb** – Website fingerprinting & vulnerability detection.
+- 🧪 **[OpenVAS](https://www.greenbone.net/en/openvas/)** – Open-source vulnerability scanner.
+- 🛡️ **[Nessus](https://www.tenable.com/products/nessus)** – Commercial vulnerability assessment tool.
+- 🕵️‍♂️ **[Nikto](https://cirt.net/Nikto2)** – Web server scanner for detecting vulnerabilities.
+- 🐺 **[Wapiti](https://github.com/wapiti-scanner/wapiti)** – Web application security scanner.
+- 🧑‍💻 **[Vega](https://github.com/subgraph/Vega)** – GUI-based web vulnerability scanner.
+- 🕷️ **[Arachni](https://github.com/Arachni/arachni)** – Feature-rich web application security scanner.
+- 🐍 **[SQLmap](https://github.com/sqlmapproject/sqlmap)** – Automated SQL injection detection and exploitation tool.
+- 🕸️ **[OWASP ZAP](https://www.zaproxy.org/)** – Open-source web application security scanner.
+- 🛜 **[Nmap Vulners](https://github.com/vulnersCom/nmap-vulners)** – Nmap NSE script for CVE detection.
+- 🔎 **[Retire.js](https://github.com/RetireJS/retire.js)** – JavaScript library vulnerability scanner.
+- ⚙️ **[Dependency-Check](https://github.com/jeremylong/DependencyCheck)** – Vulnerability analysis for project dependencies.
+- 🧑‍💻 **[Bandit](https://github.com/PyCQA/bandit)** – Security linter for Python code.
+- 🐞 **[Vuls](https://github.com/future-architect/vuls)** – Agentless vulnerability scanner for Linux/FreeBSD servers.
+- 📦 **[Trivy](https://github.com/aquasecurity/trivy)** – Vulnerability scanner for containers and dependencies.
+- 🧑‍💻 **[Grype](https://github.com/anchore/grype)** – Vulnerability scanner for container images and filesystems.
+- 🧑‍💻 **[Safety](https://github.com/pyupio/safety)** – Python dependency security scanner.
+- 📄 **[Lychee](https://github.com/lycheeverse/lychee)** – Broken link checker with vulnerability detection potential.
+- 📜 **[GitLeaks](https://github.com/gitleaks/gitleaks)** – Detect hardcoded secrets and sensitive data.
+- 🧑‍💻 **[ScoutSuite](https://github.com/nccgroup/ScoutSuite)** – Multi-cloud security auditing tool.
+- 🧑‍💻 **[CloudSploit](https://github.com/aquasecurity/cloudsploit)** – AWS security auditing tool.
+
 
 ## 💥 Exploitation Tools
 
