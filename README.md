@@ -208,33 +208,118 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## 🌐 Web Application Analysis
 
-- 🧑‍💻 **Burp Suite** – Web security testing
-- 🕵️ **OWASP ZAP** – Web vulnerability scanner
-- 🐍 **SQLmap** – Automated SQL injection
+- 🧑‍💻 [**Burp Suite**](https://portswigger.net/burp) – Web security testing toolkit.
+- 🕵️ [**OWASP ZAP**](https://www.zaproxy.org/) – Open-source web application scanner.
+- 🐍 [**SQLmap**](https://github.com/sqlmapproject/sqlmap) – Automated SQL injection tool.
+- 📜 [**Wappalyzer**](https://www.wappalyzer.com/) – Identify technologies on websites.
+- 🧑‍💻 [**Dirb**](https://gitlab.com/kalilinux/packages/dirb) – Web content scanner.
+- 📂 [**Gobuster**](https://github.com/OJ/gobuster) – Directory and DNS brute-forcing.
+- 🔍 [**Nikto**](https://github.com/sullo/nikto) – Web server vulnerability scanner.
+- 🧑‍💻 [**Sublist3r**](https://github.com/aboul3la/Sublist3r) – Subdomain enumeration.
+- 🕵️ [**Amass**](https://github.com/owasp-amass/amass) – Network mapping and subdomain enumeration.
+- 📝 [**Httpx**](https://github.com/projectdiscovery/httpx) – Fast HTTP probing.
+- 🌐 [**FFUF**](https://github.com/ffuf/ffuf) – Fast web fuzzer.
+- 🧑‍💻 [**WhatWeb**](https://github.com/urbanadventurer/WhatWeb) – Identify web technologies.
+- 🛠️ [**Nuclei**](https://github.com/projectdiscovery/nuclei) – Vulnerability scanning and templating.
+- 🧑‍💻 [**XSStrike**](https://github.com/s0md3v/XSStrike) – XSS detection and exploitation.
+- 🐞 [**Commix**](https://github.com/commixproject/commix) – Automated command injection.
+- 🔥 [**WPScan**](https://github.com/wpscanteam/wpscan) – WordPress security scanner.
+- 🛡️ [**Cmsmap**](https://github.com/Dionach/CMSmap) – CMS detection and exploitation.
+- 🔍 [**Arachni**](https://github.com/Arachni/arachni) – Advanced web vulnerability scanner.
+- 🕵️ [**Waybackurls**](https://github.com/tomnomnom/waybackurls) – Fetch URLs from Wayback Machine.
+- 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) – Extract URLs and data from URLs.
 
 ## 🧑‍💻 Reverse Engineering
 
-- 🧑‍💻 **Ghidra** – Reverse engineering toolkit
-- 🔎 **Radare2** – Binary analysis
-- 🛠️ **OllyDbg** – x86 debugger
+- 🧠 [**Ghidra**](https://ghidra-sre.org/) – Open-source software reverse engineering framework.
+- 🔎 [**Radare2**](https://github.com/radareorg/radare2) – Command-line reverse engineering toolkit.
+- 🛠️ [**OllyDbg**](http://www.ollydbg.de/) – 32-bit assembler-level debugger for Windows.
+- 🧑‍💻 [**IDA Pro**](https://hex-rays.com/ida-pro/) – Industry-standard interactive disassembler.
+- 🐍 [**Binary Ninja**](https://binary.ninja/) – Interactive binary analysis platform.
+- 🛡️ [**x64dbg**](https://x64dbg.com/) – Open-source Windows debugger for x64 and x86.
+- 🧬 [**Cutter**](https://cutter.re/) – GUI for Radare2 with advanced analysis features.
+- 📝 [**Hopper**](https://www.hopperapp.com/) – Mac & Linux disassembler with powerful analysis.
+- 🧑‍💻 [**dnSpy**](https://github.com/dnSpy/dnSpy) – .NET debugger and assembly editor.
+- 🔄 [**RetDec**](https://retdec.com/) – Open-source decompiler for machine code.
+- ⚙️ [**angr**](https://angr.io/) – Python framework for binary analysis.
+- 🧑‍💻 [**Frida**](https://frida.re/) – Dynamic instrumentation toolkit.
+- 🔗 [**Binary Analysis Toolkit (BAT)**](https://github.com/cea-sec/BAT) – Malware analysis and binary inspection.
+- 🐛 [**Rizin**](https://rizin.re/) – Fork of Radare2 with a focus on usability.
+- 🗂️ [**PEiD**](https://www.softpedia.com/get/Programming/File-Editors/PEiD.shtml) – Detect packers, cryptors, and compilers.
+- 🧑‍💻 [**DiE (Detect It Easy)**](https://github.com/horsicq/Detect-It-Easy) – Portable executable identifier.
+- 📊 [**LIEF**](https://lief.quarkslab.com/) – Library for parsing and modifying executables.
+- 🔍 [**Snowman**](https://derevenets.com/) – Native code to C++ decompiler.
+- 🧑‍💻 [**APKTool**](https://github.com/iBotPeaches/Apktool) – Decompile and rebuild Android APKs.
+- 🔓 [**JEB Decompiler**](https://www.pnfsoftware.com/jeb/) – Commercial decompiler for Android and other platforms.
 
 ## 📝 Reporting Tools
 
-- 📄 **Dradis** – Collaboration & reporting
-- 🧑‍💻 **Faraday** – Multi-user pentesting platform
-- 🌳 **MagicTree** – Productivity tool
+- 📄 [**Dradis**](https://dradisframework.com/) – Collaboration and reporting platform for pentesters.
+- 🧑‍💻 [**Faraday**](https://faradaysec.com/) – Multi-user penetration testing IDE.
+- 🌳 [**MagicTree**](http://www.magictree.org/) – Pentesting productivity tool for data aggregation and reporting.
+- 📊 [**Serpico**](https://github.com/SerpicoProject/Serpico) – Simplifying pentest reporting using templates.
+- 📝 [**LaTeX**](https://www.latex-project.org/) – High-quality typesetting system often used for security reports.
+- 📑 [**reNgine**](https://github.com/yogeshojha/rengine) – Automated reconnaissance framework with reporting.
+- 🧑‍💻 [**ReconNote**](https://github.com/nahamsec/recon_note) – Web-based notes manager for recon and reporting.
+- 📝 [**Pentracker**](https://github.com/noraj/pentracker) – Pentest reporting and management tool.
+- 📄 [**Markdown**](https://www.markdownguide.org/) – Lightweight markup language for clean report writing.
+- 📄 [**Ghostwriter**](https://github.com/GhostManager/Ghostwriter) – Reporting and engagement management platform.
+- 📊 [**VulnReport**](https://github.com/salesforce/vulnreport) – Automated vulnerability reporting platform.
+- 📋 [**Katana Framework**](https://github.com/PowerScript/KatanaFramework) – Post-exploitation and reporting utility.
+- 📑 [**Pentest-Report-Template**](https://github.com/adamjdeacon/Pentest-Report-Template) – Professional pentest report LaTeX template.
+- 📄 [**ProofSuite**](https://github.com/danielfuentes/proofsuite) – Automated proof of concept and reporting tool.
+- 🧑‍💻 [**VulnWhisperer**](https://github.com/austin-taylor/VulnWhisperer) – Vulnerability management reporting with Nessus, Qualys, and OpenVAS.
+- 📜 [**RiskSense**](https://www.risksense.com/) – Risk-based vulnerability management and reporting.
+- 📝 [**Pentestly**](https://github.com/praetorian-code/pentestly) – Powershell-based post-exploitation and reporting.
+- 📄 [**SecReport**](https://github.com/Matir/secreport) – Report generation tool for pentesters.
+- 📋 [**PwnDoc**](https://github.com/pwndoc/pwndoc) – Pentest reporting tool with customizable templates.
+- 🧑‍💻 [**PenTest-Wiki**](https://github.com/nixawk/pentest-wiki) – Knowledge base for pentesting & reporting references.
 
 ## 🎭 Social Engineering Tools
 
-- 🧑‍💻 **SET** – Social engineering framework
-- 📧 **King Phisher** – Phishing simulation
-- 🎣 **Phishing Frenzy** – Phishing campaign management
+- 🧑‍💻 [**SET (Social-Engineer Toolkit)**](https://github.com/trustedsec/social-engineer-toolkit) – Advanced framework for social engineering attacks.
+- 📧 [**King Phisher**](https://github.com/rsmusllp/king-phisher) – Phishing campaign toolkit for testing and training.
+- 🎣 [**Phishing Frenzy**](https://github.com/pentestgeek/phishing-frenzy) – Phishing campaign automation platform.
+- 🪤 [**Gophish**](https://github.com/gophish/gophish) – Open-source phishing toolkit for awareness and testing.
+- 📩 [**Evilginx2**](https://github.com/kgretzky/evilginx2) – Phishing toolkit using reverse proxy for capturing credentials & tokens.
+- 🕵️‍♀️ [**HiddenEye**](https://github.com/DarkSecDevelopers/HiddenEye) – Modern phishing tool with advanced social engineering features.
+- 🔥 [**BlackEye**](https://github.com/An0nUD4Y/blackeye) – Phishing tool with site cloning capabilities.
+- 🛜 [**Zphisher**](https://github.com/htr-tech/zphisher) – Advanced phishing tool with tunneling support.
+- 📡 [**SocialFish**](https://github.com/UndeadSec/SocialFish) – Social engineering phishing framework.
+- 🧑‍💻 [**HiddenEye Reborn**](https://github.com/DarkSecDevelopers/HiddenEyeReborn) – Improved version of HiddenEye for phishing & spoofing.
+- 🧑‍💻 [**EvilPhish**](https://github.com/An0nNiemus/EvilPhish) – Social engineering tool for phishing websites.
+- 📬 [**ShellPhish**](https://github.com/thelinuxchoice/shellphish) – Automated phishing tool supporting multiple templates.
+- 🧑‍💻 [**CamPhish**](https://github.com/techchipnet/CamPhish) – Webcam phishing attack tool.
+- 🕵️ [**Weeman**](https://github.com/evait-security/weeman) – HTTP server-based phishing framework.
+- 📲 [**QRGen**](https://github.com/sdushantha/qrgen) – QR code phishing generator.
+- 🕵️ [**PyPhisher**](https://github.com/KasRoudra/PyPhisher) – Python-based phishing toolkit with multiple site templates.
+- 🕸️ [**AdvPhishing**](https://github.com/Ignitetch/AdvPhishing) – Advanced phishing tool with login page cloning.
+- 🎯 [**SocialBox**](https://github.com/samsesh/SocialBox) – Brute-force social media hacking toolkit.
+- 🧑‍💻 [**XPhisher**](https://github.com/htr-tech/xphisher) – Advanced phishing tool with inbuilt tunneling.
+- 🌐 [**CredSniper**](https://github.com/ustayready/CredSniper) – Phishing framework with two-factor authentication bypass support.
 
 ## 🧩 Miscellaneous
 
-- 🐉 **Kali Linux** – Penetration testing OS
-- 🧑‍💻 **BackBox** – Security-oriented Linux
-- 🦜 **Parrot Security OS** – Pentesting & privacy OS
+- 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
+- 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
+- 🧑‍💻 **[BackBox](https://www.backbox.org/)** – Ubuntu-based Linux distro for penetration testing.
+- 🕵️ **[BlackArch Linux](https://blackarch.org/)** – Arch-based OS with 2800+ hacking tools.
+- 🔎 **[Pentoo](https://www.pentoo.ch/)** – Security-focused Gentoo-based Linux.
+- 🧑‍💻 **[Tails](https://tails.boum.org/)** – Privacy and anonymity-focused live OS.
+- 🧪 **[CAINE](https://www.caine-live.net/)** – Digital forensics live Linux distro.
+- 🧑‍💻 **[Bugtraq](https://bugtraq-team.com/)** – Linux distro for pentesting & malware analysis.
+- 🔒 **[Whonix](https://www.whonix.org/)** – Anonymous OS based on Tor.
+- 🧠 **[DEFT Linux](https://www.deftlinux.net/)** – Digital evidence & forensics toolkit.
+- 🌐 **[Subgraph OS](https://subgraph.com/)** – Secure Linux distro with hardened kernel.
+- 🧑‍💻 **[ArchStrike](https://archstrike.org/)** – Arch Linux repository for security tools.
+- 🧑‍💻 **[Fedora Security Lab](https://labs.fedoraproject.org/security/)** – Fedora spin for security auditing.
+- 🧑‍💻 **[SamuraiWTF](https://github.com/SamuraiWTF/samuraiwtf)** – Web application penetration testing environment.
+- 🔎 **[Cyborg Hawk](https://cyborg.ztrela.com/)** – Security distro for penetration testing.
+- 🧑‍💻 **[Matriux Krypton](https://www.matriux.com/)** – Debian-based security distribution.
+- 🔥 **[NodeZero](https://sourceforge.net/projects/nodezero/)** – Ubuntu-based penetration testing OS.
+- 🧑‍💻 **[GnackTrack](https://sourceforge.net/projects/gnacktrack/)** – Linux live distribution for penetration testing.
+- 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
+- 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
 
 ---
 
