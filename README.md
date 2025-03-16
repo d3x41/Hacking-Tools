@@ -44,7 +44,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ## 🔎 Vulnerability Analysis
 
-- 🧪 **[OpenVAS](https://www.greenbone.net/en/openvas/)** – Open-source vulnerability scanner.
+- 🧪 **[OpenVAS](https://github.com/greenbone/openvas-scanner)** – Open-source vulnerability scanner.
 - 🛡️ **[Nessus](https://www.tenable.com/products/nessus)** – Commercial vulnerability assessment tool.
 - 🕵️‍♂️ **[Nikto](https://cirt.net/Nikto2)** – Web server scanner for detecting vulnerabilities.
 - 🐺 **[Wapiti](https://github.com/wapiti-scanner/wapiti)** – Web application security scanner.
