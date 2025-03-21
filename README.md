@@ -1,6 +1,6 @@
 # 🛠️ Hacking-Tools
 
-!(Hacking Tools)[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh2YTVuNHpvdDdpZzcyNGtja29vMmNrZDJkNGE3ZTV1amhjYmFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif]
+![Hacking Tools](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh2YTVuNHpvdDdpZzcyNGtja29vMmNrZDJkNGE3ZTV1amhjYmFyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif)
 
 A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools, organized by category. This collection includes 🐉 Kali Linux tools and other notable utilities.
 
