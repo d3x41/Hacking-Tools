@@ -346,5 +346,5 @@ Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any
 
 📢 **Stay Updated!** Join my Telegram channel for the latest cybersecurity insights, tools, and bug bounty discussions!  
 
-🔗 [Hacker Secure Telegram](https://t.me/HackerSecure) 🚀👨‍💻  
+🔗 [https://t.me/HackerSecure](https://t.me/HackerSecure) 🚀👨‍💻  
 
