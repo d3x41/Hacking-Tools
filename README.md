@@ -2,6 +2,20 @@
 
 A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools, organized by category. This collection includes 🐉 Kali Linux tools and other notable utilities.
 
+---
+
+  <div align="center">
+      <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
+  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
+  <a href="https://linktr.ee/yogsec"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkTree&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+  <a href="https://yogsec.github.io/yogsec/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
+  
+</div>
+---
+
 ## 📜 Table of Contents
 
 - [🔍 Information Gathering](#-information-gathering)
@@ -321,18 +335,4 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🛡️ **[SELKS](https://www.stamus-networks.com/open-source)** – Suricata-based IDS/IPS platform.
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
 
----
-
-
-
-  <div align="center">
-      <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
-  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
-  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
-  <a href="https://linktr.ee/yogsec"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkTree&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
-  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
-  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
-  <a href="https://yogsec.github.io/yogsec/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
-  
-</div>
 
