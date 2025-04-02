@@ -243,6 +243,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🔍 [**Arachni**](https://github.com/Arachni/arachni) – Advanced web vulnerability scanner.
 - 🕵️ [**Waybackurls**](https://github.com/tomnomnom/waybackurls) – Fetch URLs from Wayback Machine.
 - 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) – Extract URLs and data from URLs.
+- 📂 [**Dirsearch**](https://github.com/maurosoria/dirsearch) – A fast and powerful scanner that uses brute-force to find hidden directories and files on web servers. It discovers inaccessible content with customizable wordlists.
 
 ## 🧑‍💻 Reverse Engineering
 
