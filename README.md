@@ -4,7 +4,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 ![Hacking Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwZ3AzNnJ0ZzBzaGc0NTVxeXdmdDloZDloZnFiMXVidzh0OXBnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPVTbiTORIopy/giphy.gif)
 </div>
----
+<br>
 
   <div align="center">
   <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
