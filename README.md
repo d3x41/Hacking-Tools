@@ -5,19 +5,33 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 ---
 
   <div align="center">
-      <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
-  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
-  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
-  <a href="https://linktr.ee/yogsec"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkTree&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
-  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
-  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
-  <a href="https://yogsec.github.io/yogsec/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
+  <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp+Channel&color=25D366&logo=whatsapp&logoColor=FFFFFF&label=" alt="WhatsApp Channel">
+  </a>
+  <a href="https://t.me/HackerSecure">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram+Channel&color=24A1DE&logo=telegram&logoColor=FFFFFF&label=" alt="Telegram Channel">
+  </a>
+  <a href="https://www.linkedin.com/in/cybersecurity-pentester/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn">
+  </a>
+  <a href="https://linktr.ee/yogsec">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkTree&color=25D366&logo=linktree&logoColor=FFFFFF&label=" alt="LinkTree">
+  </a>
+  <a href="https://x.com/home">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=X&color=000000&logo=x&logoColor=FFFFFF&label=" alt="X">
+  </a>
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email">
+  </a>
+  <a href="https://yogsec.github.io/yogsec/">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=FFFFC5&logo=Firefox&logoColor=000000&label=" alt="Website">
+  </a>
   
 </div>
 
 ---
 
-## 📜 Table of Contents
+## Table of Contents
 
 - [🔍 Information Gathering](#-information-gathering)
 - [🔎 Vulnerability Analysis](#-vulnerability-analysis)
@@ -33,7 +47,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - [🎭 Social Engineering Tools](#-social-engineering-tools)
 - [🧩 Miscellaneous](#-miscellaneous)
 
-## 🔍 Information Gathering
+## Information Gathering
 
 - 🛜 **[Nmap](https://nmap.org/)** – Network scanning and mapping tool.
 - 📶 **[Kismet](https://www.kismetwireless.net/)** – Wireless network detector, sniffer, and intrusion detection.
@@ -57,7 +71,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🏛️ **[BuiltWith](https://builtwith.com/)** – Website technology lookup and analysis.
 
 
-## 🔎 Vulnerability Analysis
+## Vulnerability Analysis
 
 - 🧪 **[OpenVAS](https://github.com/greenbone/openvas-scanner)** – Open-source vulnerability scanner.
 - 🛡️ **[Nessus](https://www.tenable.com/products/nessus)** – Commercial vulnerability assessment tool.
@@ -81,7 +95,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 **[CloudSploit](https://github.com/aquasecurity/cloudsploit)** – AWS security auditing tool.
 
 
-## 💥 Exploitation Tools
+## Exploitation Tools
 
 - 🎯 [**Metasploit Framework**](https://github.com/rapid7/metasploit-framework) – Powerful exploit development and penetration testing framework.
 - 🚀 [**Armitage**](https://github.com/rsmudge/armitage) – GUI front-end for Metasploit to visualize attacks.
@@ -105,7 +119,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🛠️ [**CrackMapExec**](https://github.com/byt3bl33d3r/CrackMapExec) – Swiss army knife for post-exploitation in Windows environments.
 
 
-## 📡 Wireless Attacks
+## Wireless Attacks
 
 - 📡 [**Aircrack-ng**](https://github.com/aircrack-ng/aircrack-ng) – WiFi cracking suite
 - 🛠️ [**Reaver**](https://github.com/t6x/reaver-wps-fork) – WPS attack tool
@@ -128,7 +142,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 📶 [**NetStumbler**](http://www.netstumbler.com/) – Wi-Fi scanner for Windows
 - 🔒 [**Wi-Fi Pineapple**](https://github.com/securestate/wifipineapple) – Wireless attack platform by Hak5
 
-## 🧑‍💻 Forensics Tools
+## Forensics Tools
 
 - 🧑‍💻 [**Autopsy**](https://www.autopsy.com/) – Digital forensics platform for analyzing hard drives and smartphones.
 - 🧠 [**Volatility**](https://www.volatilityfoundation.org/) – Memory forensics framework for analyzing RAM dumps.
@@ -151,7 +165,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 [**FTK Imager**](https://accessdata.com/products-services/ftk-imager) – Disk imaging and evidence preview tool.
 - 🧑‍💻 [**Capstone**](https://www.capstone-engine.org/) – Disassembly framework for binary analysis.
 
-## ⏳ Stress Testing
+## Stress Testing
 
 - 🐌 **[Slowloris](https://github.com/gkbrk/slowloris)** – HTTP DoS tool for keeping many connections open
 - 🛰️ **[LOIC](https://github.com/NewEraCracker/LOIC)** – Low Orbit Ion Cannon for stress testing
@@ -174,7 +188,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - ⚡ **[BlackHAT](https://github.com/j3ssie/BlackHAT)** – A stress testing framework for web applications
 
 
-## 🕵️‍♀️ Sniffing & Spoofing
+## Sniffing & Spoofing
 
 
 - 🌐 **[Wireshark](https://www.wireshark.org/)** – Network protocol analyzer
@@ -198,7 +212,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 💻 **[Snoopy](https://github.com/marooned/snoopy)** – Sniffing & spoofing tool focused on DNS & HTTP traffic
 - 📡 **[Snort](https://www.snort.org/)** – Open-source network intrusion detection & prevention system
 
-## 🔐 Password Attacks
+## Password Attacks
 
 - 🔥 **[John the Ripper](https://www.openwall.com/john/)** – Password cracking tool for various password hashes.
 - 🧑‍💻 **[Hydra](https://github.com/vanhauser-thc/thc-hydra)** – Brute-force tool that supports a wide range of protocols.
@@ -221,7 +235,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 **[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)** – A post-exploitation tool for automating credential validation.
 - 🕵️‍♀️ **[SudoKiller](https://github.com/TH3xACE/SudoKiller)** – A tool for privilege escalation that can be used for password cracking in Unix-based systems.
 
-## 🌐 Web Application Analysis
+## Web Application Analysis
 
 - 🧑‍💻 [**Burp Suite**](https://portswigger.net/burp) – Web security testing toolkit.
 - 🕵️ [**OWASP ZAP**](https://www.zaproxy.org/) – Open-source web application scanner.
@@ -245,7 +259,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 [**Unfurl**](https://github.com/tomnomnom/unfurl) – Extract URLs and data from URLs.
 - 📂 [**Dirsearch**](https://github.com/maurosoria/dirsearch) – A fast and powerful scanner that uses brute-force to find hidden directories and files on web servers. It discovers inaccessible content with customizable wordlists.
 
-## 🧑‍💻 Reverse Engineering
+## Reverse Engineering
 
 - 🧠 [**Ghidra**](https://ghidra-sre.org/) – Open-source software reverse engineering framework.
 - 🔎 [**Radare2**](https://github.com/radareorg/radare2) – Command-line reverse engineering toolkit.
@@ -268,7 +282,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 [**APKTool**](https://github.com/iBotPeaches/Apktool) – Decompile and rebuild Android APKs.
 - 🔓 [**JEB Decompiler**](https://www.pnfsoftware.com/jeb/) – Commercial decompiler for Android and other platforms.
 
-## 📝 Reporting Tools
+## Reporting Tools
 
 - 📄 [**Dradis**](https://dradisframework.com/) – Collaboration and reporting platform for pentesters.
 - 🧑‍💻 [**Faraday**](https://faradaysec.com/) – Multi-user penetration testing IDE.
@@ -291,7 +305,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 📋 [**PwnDoc**](https://github.com/pwndoc/pwndoc) – Pentest reporting tool with customizable templates.
 - 🧑‍💻 [**PenTest-Wiki**](https://github.com/nixawk/pentest-wiki) – Knowledge base for pentesting & reporting references.
 
-## 🎭 Social Engineering Tools
+## Social Engineering Tools
 
 - 🧑‍💻 [**SET (Social-Engineer Toolkit)**](https://github.com/trustedsec/social-engineer-toolkit) – Advanced framework for social engineering attacks.
 - 📧 [**King Phisher**](https://github.com/rsmusllp/king-phisher) – Phishing campaign toolkit for testing and training.
@@ -314,7 +328,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 - 🧑‍💻 [**XPhisher**](https://github.com/htr-tech/xphisher) – Advanced phishing tool with inbuilt tunneling.
 - 🌐 [**CredSniper**](https://github.com/ustayready/CredSniper) – Phishing framework with two-factor authentication bypass support.
 
-## 🧩 Miscellaneous
+## Miscellaneous
 
 - 🐉 **[Kali Linux](https://www.kali.org/)** – Advanced penetration testing and security auditing OS.
 - 🦜 **[Parrot Security OS](https://www.parrotsec.org/)** – Security-focused OS for pentesting and privacy.
