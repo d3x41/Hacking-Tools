@@ -2,6 +2,8 @@
 
 A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools, organized by category. This collection includes 🐉 Kali Linux tools and other notable utilities.
 
+![Hacking Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWkwZ3AzNnJ0ZzBzaGc0NTVxeXdmdDloZDloZnFiMXVidzh0OXBnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPVTbiTORIopy/giphy.gif)
+
 ---
 
   <div align="center">
